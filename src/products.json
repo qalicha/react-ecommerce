@@ -1,0 +1,332 @@
+{
+  "computers": [
+    {
+      "id": "1",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 20000,
+      "category": "computers",
+      "img": "computer monitor.png",
+      "color": "silver",
+      "size": [
+        "22 inch",
+        "14 inch",
+        "13 inch"
+      ],
+      "specification": {
+        "material": "plastic",
+        "brand": "Dell",
+        "warranty": "6 months",
+        "condition": "new"
+      }
+    },
+    {
+      "id": "2",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 30000,
+      "category": "computers",
+      "img": "dell laptop.jpg",
+      "color": "black",
+      "size": [
+        "16 inch",
+        "14 inch",
+        "13 inch"
+      ],
+      "specification": {
+        "material": "plastic",
+        "brand": "Dell",
+        "warranty": "6 months",
+        "condition": "refurbished"
+      }
+    },
+    {
+      "id": "3",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 40000,
+      "category": "computers",
+      "img": "hp new brand laptop.jpg",
+      "color": "white",
+      "size": [
+        "15 inch",
+        "16 inch",
+        "13 inch"
+      ],
+      "specification": {
+        "material": "plastic",
+        "brand": "hp",
+        "warranty": "6 months",
+        "condition": "brand new"
+      }
+    },
+    {
+      "id": "4",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 50000,
+      "category": "computers",
+      "img": "mouse.jpg",
+      "color": "black",
+      "size": [
+        "one size",
+        "wireless",
+        "slim"
+      ],
+      "specification": {
+        "material": "ABS",
+        "brand": "RichRipple",
+        "warranty": "NO",
+        "Compatible Devices": "laptop",
+        "connectivity Technology": "Bluetooth"
+      }
+    },
+    {
+      "id": "5",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 60000,
+      "category": "computers",
+      "img": "lenovo thinkbook 14 gen.jpg",
+      "color": "silver",
+      "size": [
+        "12.5 inch",
+        "14 inch",
+        "13 inch"
+      ],
+      "specification": {
+        "material": "plastic",
+        "brand": "lenovo",
+        "warranty": "6 months",
+        "condition": "brand new"
+      }
+    },
+    {
+      "id": "6",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 70000,
+      "category": "computers",
+      "img": "lenovo ideapad 5.jpg",
+      "color": "silver",
+      "size": [
+        "14 inch",
+        "16 inch",
+        "13 inch"
+      ],
+      "specification": {
+        "material": "plastic",
+        "brand": "lenovo",
+        "warranty": "6 months",
+        "condition": "refurbished"
+      }
+    }
+  ],
+  "shoes": [
+    {
+      "id": "7",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 2000,
+      "category": "shoes",
+      "img": "black boots.jpg",
+      "color": "black",
+      "size": [
+        "22 ",
+        "30",
+        "40"
+      ],
+      "specification": {
+        "style": "fashion",
+        "brand": "Generic",
+        "department": "women",
+        "height": "High"
+      }
+    },
+    {
+      "id": "8",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 3000,
+      "category": "shoes",
+      "img": "climbing shoe.jpg",
+      "color": "yellow",
+      "size": [
+        "38",
+        "40",
+        "42"
+      ],
+      "specification": {
+        "style": "sports",
+        "brand": "Generic",
+        "department": "women",
+        "height": "high"
+      }
+    },
+    {
+      "id": "9",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 4000,
+      "category": "shoes",
+      "img": "colorful sneakers.jpg",
+      "color": "striped",
+      "size": [
+        "40",
+        "41",
+        "42"
+      ],
+      "specification": {
+        "style": "fashion",
+        "brand": "Generic",
+        "department": "men",
+        "height": "low"
+      }
+    },
+    {
+      "id": "10",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 5000,
+      "category": "shoes",
+      "img": "ladies official shoe.jpg",
+      "color": "silver",
+      "size": [
+        "22 inch",
+        "14 inch",
+        "13 inch"
+      ],
+      "specification": {
+        "style": "fashion",
+        "brand": "Generic",
+        "department": "women",
+        "height": "high"
+      }
+    },
+    {
+      "img": "red heels.jpg",
+      "category": "shoes",
+      "color": "blue",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": "5000",
+      "size": [
+        "10",
+        "20",
+        "30"
+      ],
+      "specification": {
+        "condition": "good",
+        "material": "leather",
+        "warranty": "7 days",
+        "brand": "brand new"
+      },
+      "id": "AcN4pK8"
+    },
+    {
+      "img": "running shoe.jpg",
+      "category": "shoes",
+      "color": "blue",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": "4000",
+      "size": [
+        "40",
+        "41",
+        "43"
+      ],
+      "specification": {
+        "condition": "good",
+        "material": "leather",
+        "warranty": "no",
+        "brand": "brand new"
+      },
+      "id": "2sx5bDj"
+    }
+  ],
+  "phones": [
+    {
+      "id": "11",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 20000,
+      "category": "phones",
+      "img": "bluetooth headset.png",
+      "color": "black",
+      "size": [
+        "22 ",
+        "14 ",
+        "13 "
+      ],
+      "specification": {
+        "connection type": "wireless",
+        "brand": "RichRipple",
+        "warranty": "6 months",
+        "style": "Headset"
+      }
+    },
+    {
+      "id": "12",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 30000,
+      "category": "phones",
+      "img": "Headphone.jpg",
+      "color": "silver",
+      "size": [
+        "22",
+        "14",
+        "13"
+      ],
+      "specification": {
+        "connection type": "wireless",
+        "brand": "RichRipple",
+        "warranty": "6 months",
+        "style": "HeadPhone"
+      }
+    },
+    {
+      "id": "13",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 40000,
+      "category": "phones",
+      "img": "Infinix Hot 10.jpg",
+      "color": "silver",
+      "storage": [
+        "128GB",
+        "64GB",
+        "32GB"
+      ],
+      "specification": {
+        "model": "Hot 10",
+        "brand": "Infinix",
+        "warranty": "6 months",
+        "condition": "brand new"
+      }
+    },
+    {
+      "id": "14",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": 50000,
+      "category": "phones",
+      "img": "Itel Global.jpg",
+      "color": "black",
+      "storage": [
+        "128GB",
+        "64GB",
+        "32GB"
+      ],
+      "specification": {
+        "model": "itel A70",
+        "brand": "Itel",
+        "warranty": "6 months",
+        "condition": "brand new"
+      }
+    },
+    {
+      "img": "Samsung Galaxy.jpg",
+      "category": "phones",
+      "color": "silver",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsa",
+      "price": "10000",
+      "size": [
+        "20",
+        "21",
+        "23"
+      ],
+      "specification": {
+        "condition": "new",
+        "material": "hk",
+        "warranty": "1 year",
+        "brand": "brand new"
+      },
+      "id": "Bihb4Sh"
+    }
+  ]
+}
